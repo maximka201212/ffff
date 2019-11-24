@@ -32,8 +32,8 @@
             this.button1 = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.maskedTextBox1 = new System.Windows.Forms.MaskedTextBox();
+            this.maskedTextBox2 = new System.Windows.Forms.MaskedTextBox();
             this.SuspendLayout();
             // 
             // button2
@@ -74,19 +74,24 @@
             this.label2.TabIndex = 21;
             this.label2.Text = "Repeat Password";
             // 
-            // textBox1
+            // maskedTextBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(15, 103);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(135, 20);
-            this.textBox1.TabIndex = 20;
+            this.maskedTextBox1.BeepOnError = true;
+            this.maskedTextBox1.CutCopyMaskFormat = System.Windows.Forms.MaskFormat.IncludePrompt;
+            this.maskedTextBox1.Location = new System.Drawing.Point(15, 34);
+            this.maskedTextBox1.Name = "maskedTextBox1";
+            this.maskedTextBox1.PasswordChar = '*';
+            this.maskedTextBox1.RejectInputOnFirstFailure = true;
+            this.maskedTextBox1.Size = new System.Drawing.Size(135, 20);
+            this.maskedTextBox1.TabIndex = 25;
             // 
-            // textBox2
+            // maskedTextBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(15, 38);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(135, 20);
-            this.textBox2.TabIndex = 19;
+            this.maskedTextBox2.Location = new System.Drawing.Point(15, 110);
+            this.maskedTextBox2.Name = "maskedTextBox2";
+            this.maskedTextBox2.PasswordChar = '*';
+            this.maskedTextBox2.Size = new System.Drawing.Size(135, 20);
+            this.maskedTextBox2.TabIndex = 26;
             // 
             // Change_password
             // 
@@ -94,12 +99,12 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.DarkMagenta;
             this.ClientSize = new System.Drawing.Size(218, 228);
+            this.Controls.Add(this.maskedTextBox2);
+            this.Controls.Add(this.maskedTextBox1);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.label2);
-            this.Controls.Add(this.textBox1);
-            this.Controls.Add(this.textBox2);
             this.Cursor = System.Windows.Forms.Cursors.Default;
             this.MaximizeBox = false;
             this.MinimizeBox = false;
@@ -116,7 +121,7 @@
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.MaskedTextBox maskedTextBox1;
+        private System.Windows.Forms.MaskedTextBox maskedTextBox2;
     }
 }

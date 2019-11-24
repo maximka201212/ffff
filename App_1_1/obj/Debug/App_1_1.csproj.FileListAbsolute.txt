@@ -72,3 +72,28 @@ C:\Users\maxim\Desktop\Новая папка (3)\App_1_1\obj\Debug\App_1_1.cspro
 C:\Users\maxim\Desktop\Новая папка (3)\App_1_1\obj\Debug\App_1_1.exe
 C:\Users\maxim\Desktop\Новая папка (3)\App_1_1\obj\Debug\App_1_1.pdb
 C:\Users\maxim\Desktop\Новая папка (3)\App_1_1\bin\Debug\App_1_1.pdb
+C:\Users\maxim\Documents\GitHub\ffff\App_1_1\bin\Debug\App_1_1.exe.config
+C:\Users\maxim\Documents\GitHub\ffff\App_1_1\bin\Debug\App_1_1.exe
+C:\Users\maxim\Documents\GitHub\ffff\App_1_1\bin\Debug\App_1_1.pdb
+C:\Users\maxim\Documents\GitHub\ffff\App_1_1\obj\Debug\App_1_1.csprojAssemblyReference.cache
+C:\Users\maxim\Documents\GitHub\ffff\App_1_1\obj\Debug\App_1_1.Bus.resources
+C:\Users\maxim\Documents\GitHub\ffff\App_1_1\obj\Debug\App_1_1.Change_E_mail.resources
+C:\Users\maxim\Documents\GitHub\ffff\App_1_1\obj\Debug\App_1_1.Change_login.resources
+C:\Users\maxim\Documents\GitHub\ffff\App_1_1\obj\Debug\App_1_1.Change_password.resources
+C:\Users\maxim\Documents\GitHub\ffff\App_1_1\obj\Debug\App_1_1.Change_payment_info.resources
+C:\Users\maxim\Documents\GitHub\ffff\App_1_1\obj\Debug\App_1_1.Change_success.resources
+C:\Users\maxim\Documents\GitHub\ffff\App_1_1\obj\Debug\App_1_1.Details.resources
+C:\Users\maxim\Documents\GitHub\ffff\App_1_1\obj\Debug\App_1_1.Electric_cars.resources
+C:\Users\maxim\Documents\GitHub\ffff\App_1_1\obj\Debug\App_1_1.Inspection.resources
+C:\Users\maxim\Documents\GitHub\ffff\App_1_1\obj\Debug\App_1_1.Menu.resources
+C:\Users\maxim\Documents\GitHub\ffff\App_1_1\obj\Debug\App_1_1.Passenger_cars.resources
+C:\Users\maxim\Documents\GitHub\ffff\App_1_1\obj\Debug\App_1_1.Pay.resources
+C:\Users\maxim\Documents\GitHub\ffff\App_1_1\obj\Debug\App_1_1.Registration.resources
+C:\Users\maxim\Documents\GitHub\ffff\App_1_1\obj\Debug\App_1_1.Repair.resources
+C:\Users\maxim\Documents\GitHub\ffff\App_1_1\obj\Debug\App_1_1.Settings.resources
+C:\Users\maxim\Documents\GitHub\ffff\App_1_1\obj\Debug\App_1_1.Success.resources
+C:\Users\maxim\Documents\GitHub\ffff\App_1_1\obj\Debug\App_1_1.Form1.resources
+C:\Users\maxim\Documents\GitHub\ffff\App_1_1\obj\Debug\App_1_1.Properties.Resources.resources
+C:\Users\maxim\Documents\GitHub\ffff\App_1_1\obj\Debug\App_1_1.csproj.GenerateResource.cache
+C:\Users\maxim\Documents\GitHub\ffff\App_1_1\obj\Debug\App_1_1.exe
+C:\Users\maxim\Documents\GitHub\ffff\App_1_1\obj\Debug\App_1_1.pdb
